@@ -7,7 +7,7 @@ All this profile themes are publicly available on the internet, all credits go t
 [![](https://discord.c99.nl/widget/theme-4/346608030579949568.png)](#disclaimer)
 
 # Tutorials
-All the tutorials were moved to the Wiki page of this repo.
+All the tutorials were moved to the Wiki page of this repo.  
 [![](https://i.imgur.com/U11zunI.png)](https://github.com/Differ812/AL-Profile-CSS-Library/wiki)
 
 # Themes

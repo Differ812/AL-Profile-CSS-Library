@@ -1,4 +1,4 @@
-# AL-Profile-CSS-Library
+# Disclaimer
 This is a library of CSS code for profiles on the site [AniList](http://anilist.co) using [AutoMail](https://github.com/hohMiyazawa/Automail).
 All this profile themes are publicly available on the internet, all credits go to each owner respectively.  
 **If you see yours here and want it to be excluded contact me on Discord:**  

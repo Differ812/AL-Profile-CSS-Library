@@ -18,16 +18,12 @@ All this profile themes are publicly available on the internet, all credits go t
 Charlie's Theme | Credits go to [ProbablyAsexual](https://anilist.co/user/ProbablyAsexual).
 ---
 [![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/ProbablyAsexual-Charlie's%20Theme-preview.png)](https://raw.githubusercontent.com/ProbablyAsexual/Anilist-Profile/main/profile-themes/current-theme/main.css)
----
 Hokaze | Credits go to [Anzu](https://anilist.co/user/Anzu).
 ---
 [![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/Anzu-Hokaze-preview.png)](https://anzuftnw.github.io/anilist-css/themes/hokaze/main.css)
----
 Megumin's Theme | Credits go to [Kurisu](https://anilist.co/user/Megumin/).
 ---
 [![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/Kurisu-Megumin's%20Theme-preview.png)](https://raw.githubusercontent.com/Kurisu-chan/anilist-css/master/general-style.css)
----
 Konpaku | Credits go to [Anzu](https://anilist.co/user/Anzu).
 ---
 [![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/Anzu-Konpaku-preview.png)](https://anzuftnw.github.io/anilist-css/themes/konpaku/main.css)
----

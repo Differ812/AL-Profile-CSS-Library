@@ -1,6 +1,8 @@
 # AL-Profile-CSS-Library
 This is a library of CSS code for profiles on the site [AniList](http://anilist.co) using [AutoMail](https://github.com/hohMiyazawa/Automail).
 All this profile themes are publicly available on the internet, all credits go to each owner respectively.
+**If you see yours here and want it to be excluded contact me on Discord:**
+[![](https://discord.c99.nl/widget/theme-4/346608030579949568.png)](#al-profile-css-library)
 
 # Tutorial
 1. To start off you'll have to install AutoMail, if you have it installed then skip to step 4.

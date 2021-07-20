@@ -1,5 +1,6 @@
 # AL-Profile-CSS-Library
 This is a library of CSS code for profiles on the site [AniList](http://anilist.co) using [AutoMail](https://github.com/hohMiyazawa/Automail).
+All this Profile themes are public on the internet, all credits go to the owners of each respectively.
 
 # Tutorial
 1. To start off you'll have to install AutoMail, if you have it installed then skip to step 4.
@@ -21,4 +22,12 @@ Charlie's Theme | Credits go to [ProbablyAsexual](https://anilist.co/user/Probab
 Hokaze | Credits go to [Anzu](https://anilist.co/user/Anzu).
 ---
 [![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/Anzu-Hokaze-preview.png)](https://anzuftnw.github.io/anilist-css/themes/hokaze/main.css)
+---
+Megumin's Theme | Credits go to [Kurisu](https://anilist.co/user/Megumin/).
+---
+[![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/Kurisu-Megumin's%20Theme-preview.png)](https://raw.githubusercontent.com/Kurisu-chan/anilist-css/master/general-style.css)
+---
+Konpaku | Credits go to [Anzu](https://anilist.co/user/Anzu).
+---
+[![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/Anzu-Konpaku-preview.png)](https://anzuftnw.github.io/anilist-css/themes/konpaku/main.css)
 ---

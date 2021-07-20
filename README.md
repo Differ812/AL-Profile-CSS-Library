@@ -9,8 +9,7 @@ This is a library of CSS code for profiles on the site [AniList](http://anilist.
 [![](https://i.imgur.com/DbH0Wi1.png)](#tutorial) For easier search Ctrl + F and input CSS.
 5. After enabling the option choose one of the [CSS's](#csss) below and click the image to open the raw link, then Ctrl + A and Ctrl + C, go [here](https://anilist.co/settings/apps) and scroll all the way down until you find the box shown below:
 [![](https://i.imgur.com/IDgjyZP.png)](#tutorial)
-And paste it in using Ctrl + V.
-6. You're done!
+6. Now paste it in using Ctrl + V. You're done!
 
 # CSS's
 [![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/ProbablyAsexual%20CSS/ProbablyAsexual-preview.png)](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/ProbablyAsexual%20CSS/main.css)

@@ -13,7 +13,8 @@ All this profile themes are publicly available on the internet, all credits go t
 4. After installing it you'll need to sign in by clicking the highlighted blue text at the bottom of the page:  
 [![](https://i.imgur.com/fh53jYF.png)](#tutorial)
 5. Now to add CSS to your own profile first you'll need to search for the option showned below:  
-[![](https://i.imgur.com/DbH0Wi1.png)](#tutorial) For easier search Ctrl + F and input CSS.
+[![](https://i.imgur.com/DbH0Wi1.png)](#tutorial)  
+For easier search Ctrl + F and input CSS.
 6. After enabling the option choose one of the [CSS's](#themes) below and click the image to open the raw link, then Ctrl + A and Ctrl + C, go [here](https://anilist.co/settings/apps) and scroll all the way down until you find the box shown below:  
 [![](https://i.imgur.com/IDgjyZP.png)](#tutorial)
 7. Now paste it in using Ctrl + V and click submit.

@@ -11,7 +11,7 @@ All the tutorials were moved to the Wiki page of this repo.
 [![](https://i.imgur.com/U11zunI.png)](https://github.com/Differ812/AL-Profile-CSS-Library/wiki)
 
 # Themes
-**Click the image to open the CSS raw.**
+Click the image to open the CSS raw.
 
 
 Charlie's Theme | Credits go to [ProbablyAsexual](https://anilist.co/user/ProbablyAsexual).

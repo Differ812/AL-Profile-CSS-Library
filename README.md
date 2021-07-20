@@ -12,5 +12,5 @@ This is a library of CSS code for profiles on the site [AniList](http://anilist.
 6. Now paste it in using Ctrl + V and click submit.
 
 # CSS's
-[![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/ProbablyAsexual%20CSS/ProbablyAsexual-preview.png)](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/ProbablyAsexual%20CSS/main.css)
+[![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/ProbablyAsexual%20CSS/ProbablyAsexual-preview.png)](https://raw.githubusercontent.com/ProbablyAsexual/Anilist-Profile/main/profile-themes/current-theme/main.css)
 Credits go to [ProbablyAsexual](https://anilist.co/user/ProbablyAsexual).

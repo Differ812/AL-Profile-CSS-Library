@@ -16,9 +16,9 @@ This is a library of CSS code for profiles on the site [AniList](http://anilist.
 # Themes
 Charlie's Theme | Credits go to [ProbablyAsexual](https://anilist.co/user/ProbablyAsexual).
 ---
-[![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/ProbablyAsexual%20CSS/ProbablyAsexual-preview.png)](https://raw.githubusercontent.com/ProbablyAsexual/Anilist-Profile/main/profile-themes/current-theme/main.css)
+[![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/ProbablyAsexual-Charlie's%20Theme-preview.png)](https://raw.githubusercontent.com/ProbablyAsexual/Anilist-Profile/main/profile-themes/current-theme/main.css)
 ---
 Hokaze | Credits go to [Anzu](https://anilist.co/user/Anzu).
 ---
-[![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/ProbablyAsexual%20CSS/Anzu-hokaze-preview.png)](https://anzuftnw.github.io/anilist-css/themes/hokaze/main.css)
+[![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/Anzu-Hokaze-preview.png)](https://anzuftnw.github.io/anilist-css/themes/hokaze/main.css)
 ---

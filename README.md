@@ -20,6 +20,9 @@ For easier search Ctrl + F and input "CSS".
 7. Now paste it in using Ctrl + V and click submit.
 
 # Themes
+**Click the image to open the CSS raw.**
+
+
 Charlie's Theme | Credits go to [ProbablyAsexual](https://anilist.co/user/ProbablyAsexual).
 ---
 [![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/ProbablyAsexual-Charlie's%20Theme-preview.png)](https://raw.githubusercontent.com/ProbablyAsexual/Anilist-Profile/main/profile-themes/current-theme/main.css)

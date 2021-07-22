@@ -8,7 +8,7 @@ All this profile themes are publicly available on the internet, all credits go t
 
 # Tutorials
 All the tutorials were moved to the Wiki page of this repo.  
-[![](https://i.imgur.com/U11zunI.png)](https://github.com/Differ812/AL-Profile-CSS-Library/wiki)
+[![](https://i.imgur.com/U11zunI.png)](https://github.com/Differ812/AL-Profile-CSS-Library/wiki/The-Basics)
 
 # Themes
 Click the image to open the CSS raw.

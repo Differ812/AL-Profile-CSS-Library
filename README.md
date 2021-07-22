@@ -37,3 +37,9 @@ Konpaku | Credits go to [Anzu](https://anilist.co/user/Anzu).
 [![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/Anzu-Konpaku-preview.png)](https://anzuftnw.github.io/anilist-css/themes/konpaku/main.css)
 
 ---
+
+Hyperixn | Credits go to [IXxJordan](https://anilist.co/user/Hyperixn).
+---
+[![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/IXxJordan-Hyperixn-preview.png)](https://raw.githubusercontent.com/IXxJordan/AniList-css/main/hyperixn-style.css)
+
+---

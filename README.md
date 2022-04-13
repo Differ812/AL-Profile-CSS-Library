@@ -4,7 +4,7 @@ All this profile themes are publicly available on the internet, all credits go t
 **If you see yours here and want it to be excluded contact me on Discord:**  
 
 
-[![](https://discord.c99.nl/widget/theme-4/346608030579949568.png)](#disclaimer)
+[![](https://discord.c99.nl/widget/theme-4/959785251473874974.png)](#disclaimer)
 
 # Tutorials
 All the tutorials were moved to the Wiki page of this repo.  

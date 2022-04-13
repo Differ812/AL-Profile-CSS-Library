@@ -22,7 +22,7 @@ Charlie's Theme | Credits go to [ProbablyAsexual](https://anilist.co/user/Probab
 
 Hokaze | Credits go to [Anzu](https://anilist.co/user/Anzu).
 ---
-[![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/Anzu-Hokaze-preview.png)](https://anzuftnw.github.io/anilist-css/themes/hokaze/main.css)
+[![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/Anzu-Hokaze-preview.png)](https://anzuftnw.github.io/files/hokaze.css)
 
 ---
 
@@ -34,7 +34,7 @@ Megumin's Theme | Credits go to [Kurisu](https://anilist.co/user/Megumin/).
 
 Konpaku | Credits go to [Anzu](https://anilist.co/user/Anzu).
 ---
-[![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/Anzu-Konpaku-preview.png)](https://anzuftnw.github.io/anilist-css/themes/konpaku/main.css)
+[![](https://raw.githubusercontent.com/Differ812/AL-Profile-CSS-Library/main/Previews/Anzu-Konpaku-preview.png)](https://anzuftnw.github.io/files/konpaku.css)
 
 ---
 
